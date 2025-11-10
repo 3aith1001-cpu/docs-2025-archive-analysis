@@ -1,0 +1,213 @@
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                    📁 EXACT FILE LOCATIONS GUIDE                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+YOUR PROJECT ROOT DIRECTORY:
+📂 /home/user/docs-2025-archive-analysis
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ 📊 FOR EXCEL USERS - OPEN THESE CSV FILES                                    │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+Navigate to this folder:
+👉 /home/user/docs-2025-archive-analysis/backend/exports/excel/
+
+Files you can open in Excel:
+✓ market_size.csv               (546 bytes)  - Market growth 2018-2028
+✓ pricing_analysis.csv          (600 bytes)  - Service pricing data
+✓ competitor_analysis.csv       (534 bytes)  - Top 10 competitors
+✓ regional_analysis.csv         (372 bytes)  - 5 global regions
+✓ industry_trends.csv           (454 bytes)  - Technology trends
+✓ analysis_summary.json         (923 bytes)  - Statistical results
+
+HOW TO OPEN:
+1. Open Excel
+2. File → Open → Browse to the folder above
+3. Change file type to "All Files (*.*)" or "CSV Files"
+4. Select any CSV file and open
+
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ 💼 FOR POWER BI USERS - IMPORT THESE FILES                                   │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+Navigate to this folder:
+👉 /home/user/docs-2025-archive-analysis/backend/exports/powerbi/
+
+Power BI Dataset:
+✓ market_timeseries.csv         (594 bytes)  - Time series for Power BI
+
+ALSO IMPORT FROM EXCEL FOLDER:
+👉 /home/user/docs-2025-archive-analysis/backend/exports/excel/
+   (Import all 5 CSV files listed above)
+
+HOW TO IMPORT:
+1. Open Power BI Desktop
+2. Get Data → Text/CSV
+3. Navigate to the folders above
+4. Select files one by one
+
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ 🔬 FOR PYTHON/DATA SCIENCE - USE THESE JSON FILES                            │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+RAW DATA LOCATION:
+👉 /home/user/docs-2025-archive-analysis/backend/data/raw/
+
+JSON Files (Detailed Data):
+✓ market_size.json              (2.4K)  - Full market data with segments
+✓ competitors.json              (2.2K)  - Detailed competitor profiles
+✓ pricing.json                  (2.1K)  - Service pricing breakdown
+✓ regional.json                 (1.3K)  - Regional market details
+✓ industry_trends.json          (1.3K)  - Technology trends details
+
+PROCESSED ANALYSIS LOCATION:
+👉 /home/user/docs-2025-archive-analysis/backend/data/processed/
+
+Analysis Files:
+✓ executive_summary.json        (1.1K)  - ⭐ START HERE! Key findings
+✓ statistical_analysis.json     (923)   - CAGR, HHI, correlations
+
+PYTHON EXAMPLE:
+import pandas as pd
+import json
+
+# Load CSV
+df = pd.read_csv('/home/user/docs-2025-archive-analysis/backend/exports/excel/market_size.csv')
+
+# Load JSON
+with open('/home/user/docs-2025-archive-analysis/backend/data/processed/executive_summary.json') as f:
+    summary = json.load(f)
+
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ 📖 DOCUMENTATION FILES - READ THESE FOR INSIGHTS                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+Main Directory:
+👉 /home/user/docs-2025-archive-analysis/
+
+Documentation:
+✓ ANALYSIS_RESULTS.md           - ⭐ 10-page analysis report with ALL findings
+✓ FILES_INDEX.md                - Complete file index and guide
+✓ POWERBI_GUIDE.md              - How to build Power BI dashboards
+✓ README.md                     - Complete project documentation
+✓ QUICKSTART.md                 - 5-minute setup guide
+
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ 🚀 QUICK COMMANDS TO ACCESS FILES                                             │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+# Navigate to Excel files
+cd /home/user/docs-2025-archive-analysis/backend/exports/excel
+
+# List all Excel files
+ls -lh
+
+# Navigate to JSON data
+cd /home/user/docs-2025-archive-analysis/backend/data/raw
+
+# View executive summary (START HERE!)
+cat /home/user/docs-2025-archive-analysis/backend/data/processed/executive_summary.json
+
+# View full analysis report
+cat /home/user/docs-2025-archive-analysis/ANALYSIS_RESULTS.md
+
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ 📂 COMPLETE DIRECTORY TREE                                                    │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+/home/user/docs-2025-archive-analysis/
+│
+├── 📄 ANALYSIS_RESULTS.md          ⭐ READ THIS - Complete analysis report
+├── 📄 FILES_INDEX.md               ⭐ File index
+├── 📄 POWERBI_GUIDE.md             Power BI instructions
+├── 📄 README.md                    Main documentation
+├── 📄 QUICKSTART.md                Setup guide
+│
+└── backend/
+    │
+    ├── 📁 data/
+    │   │
+    │   ├── 📁 raw/                 ⭐ JSON DATA FILES
+    │   │   ├── market_size.json
+    │   │   ├── competitors.json
+    │   │   ├── pricing.json
+    │   │   ├── regional.json
+    │   │   └── industry_trends.json
+    │   │
+    │   └── 📁 processed/           ⭐ ANALYSIS RESULTS
+    │       ├── executive_summary.json      ← START HERE!
+    │       └── statistical_analysis.json
+    │
+    └── 📁 exports/
+        │
+        ├── 📁 excel/               ⭐ EXCEL CSV FILES
+        │   ├── market_size.csv
+        │   ├── pricing_analysis.csv
+        │   ├── competitor_analysis.csv
+        │   ├── regional_analysis.csv
+        │   ├── industry_trends.csv
+        │   └── analysis_summary.json
+        │
+        └── 📁 powerbi/             ⭐ POWER BI DATASETS
+            └── market_timeseries.csv
+
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ ✅ TOP 3 FILES TO START WITH                                                  │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+1️⃣  BEST FOR QUICK OVERVIEW:
+    /home/user/docs-2025-archive-analysis/ANALYSIS_RESULTS.md
+    → Complete analysis report with all findings
+
+2️⃣  BEST FOR EXCEL:
+    /home/user/docs-2025-archive-analysis/backend/exports/excel/market_size.csv
+    → Open directly in Excel to see market data
+
+3️⃣  BEST FOR DEVELOPERS:
+    /home/user/docs-2025-archive-analysis/backend/data/processed/executive_summary.json
+    → Key findings in JSON format
+
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ 💡 HOW TO DOWNLOAD/COPY FILES                                                 │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+If you're in a terminal/SSH:
+# Copy all Excel files to your local machine
+scp -r user@server:/home/user/docs-2025-archive-analysis/backend/exports/excel/ .
+
+If you're using VS Code:
+1. Right-click on backend/exports/excel/ folder
+2. Select "Download"
+
+If you're using a file browser:
+Navigate to: /home/user/docs-2025-archive-analysis/backend/exports/
+
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ 🔄 REGENERATE DATA ANYTIME                                                    │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+Run this command to generate fresh data:
+cd /home/user/docs-2025-archive-analysis/backend
+python3 generate_data.py
+
+This will recreate all 14 data files with new variations!
+
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  ⭐ SUMMARY: ALL FILES ARE IN THIS DIRECTORY                                  ║
+║     /home/user/docs-2025-archive-analysis/                                    ║
+║                                                                               ║
+║  📊 EXCEL FILES → backend/exports/excel/                                      ║
+║  💼 POWER BI    → backend/exports/powerbi/                                    ║
+║  🔬 JSON DATA   → backend/data/raw/                                           ║
+║  📈 ANALYSIS    → backend/data/processed/                                     ║
+║  📖 REPORTS     → ANALYSIS_RESULTS.md (root directory)                        ║
+╚══════════════════════════════════════════════════════════════════════════════╝
