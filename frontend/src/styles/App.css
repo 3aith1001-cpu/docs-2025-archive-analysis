@@ -1,0 +1,158 @@
+.App {
+  display: flex;
+  min-height: 100vh;
+  background-color: #0a0a0a;
+}
+
+/* Sidebar Navigation */
+.sidebar {
+  width: 280px;
+  background: linear-gradient(180deg, #1a1a1a 0%, #0f0f0f 100%);
+  border-right: 1px solid #333;
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  height: 100vh;
+  left: 0;
+  top: 0;
+  z-index: 100;
+}
+
+.sidebar-header {
+  padding: 30px 20px;
+  border-bottom: 1px solid #333;
+}
+
+.sidebar-header h2 {
+  color: #0088FE;
+  font-size: 24px;
+  margin-bottom: 10px;
+  font-weight: 700;
+}
+
+.status-indicator {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 10px;
+  padding: 8px 12px;
+  background-color: #0a0a0a;
+  border-radius: 5px;
+  border: 1px solid #333;
+}
+
+.status-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  animation: pulse 2s infinite;
+}
+
+.status-indicator.connected .status-dot {
+  background-color: #00C49F;
+}
+
+.status-indicator.disconnected .status-dot {
+  background-color: #ff0000;
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.5; }
+}
+
+.status-text {
+  font-size: 12px;
+  text-transform: uppercase;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+
+.status-indicator.connected .status-text {
+  color: #00C49F;
+}
+
+.status-indicator.disconnected .status-text {
+  color: #ff0000;
+}
+
+.nav-links {
+  list-style: none;
+  padding: 20px 0;
+  flex: 1;
+  overflow-y: auto;
+}
+
+.nav-links li {
+  margin-bottom: 5px;
+}
+
+.nav-links a {
+  display: flex;
+  align-items: center;
+  padding: 14px 20px;
+  color: #b0b0b0;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  font-size: 15px;
+  font-weight: 500;
+  border-left: 3px solid transparent;
+}
+
+.nav-links a:hover {
+  background-color: rgba(0, 136, 254, 0.1);
+  color: #0088FE;
+  border-left-color: #0088FE;
+}
+
+.nav-links a .icon {
+  margin-right: 12px;
+  font-size: 20px;
+}
+
+.sidebar-footer {
+  padding: 20px;
+  border-top: 1px solid #333;
+  font-size: 12px;
+  color: #666;
+}
+
+.sidebar-footer p {
+  margin: 5px 0;
+}
+
+.version {
+  color: #444;
+  font-weight: 600;
+}
+
+/* Main Content */
+.main-content {
+  flex: 1;
+  margin-left: 280px;
+  padding: 30px;
+  background-color: #0a0a0a;
+  min-height: 100vh;
+}
+
+/* Responsive */
+@media (max-width: 1024px) {
+  .sidebar {
+    width: 240px;
+  }
+
+  .main-content {
+    margin-left: 240px;
+  }
+}
+
+@media (max-width: 768px) {
+  .sidebar {
+    width: 200px;
+  }
+
+  .main-content {
+    margin-left: 200px;
+    padding: 20px;
+  }
+}
