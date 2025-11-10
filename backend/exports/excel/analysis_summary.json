@@ -1,0 +1,33 @@
+{
+  "cagr_analysis": {
+    "cagr_percent": 6.3,
+    "base_year": 2018,
+    "end_year": 2028,
+    "base_value": 350.0,
+    "projected_value": 621.3,
+    "r_squared": 0.998
+  },
+  "market_concentration": {
+    "hhi_index": 1847,
+    "cr4_ratio": 49.8,
+    "concentration_level": "Moderately Concentrated",
+    "number_of_players": 10
+  },
+  "regional_rankings": {
+    "largest_market": "North America",
+    "fastest_growing": "Asia Pacific",
+    "most_digital": "North America"
+  },
+  "pricing_insights": {
+    "average_hourly_rate": 100.5,
+    "most_expensive": "Roofing",
+    "most_affordable": "Janitorial Services",
+    "highest_demand": "HVAC Maintenance"
+  },
+  "trend_analysis": {
+    "highest_adoption": "Mobile-First Service Platforms (81.2%)",
+    "highest_growth": "Robotics & Automation (15.6%)",
+    "highest_investment": "Green/Sustainable Practices ($2,100M)",
+    "best_roi": "Predictive Maintenance AI"
+  }
+}

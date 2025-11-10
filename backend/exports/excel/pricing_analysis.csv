@@ -1,0 +1,11 @@
+service,avg_hourly_rate,min_rate,max_rate,avg_contract_monthly,market_demand_score,price_trend
+HVAC Maintenance,125,87.5,187.5,20000,7.5,Increasing
+Plumbing Services,95,66.5,142.5,15200,8.3,Stable
+Electrical Maintenance,110,77.0,165.0,17600,9.1,Decreasing
+Landscaping,65,45.5,97.5,10400,7.5,Increasing
+Janitorial Services,45,31.5,67.5,7200,8.3,Stable
+Painting,75,52.5,112.5,12000,9.1,Decreasing
+Roofing,150,105.0,225.0,24000,7.5,Increasing
+General Repairs,85,59.5,127.5,13600,8.3,Stable
+Pest Control,120,84.0,180.0,19200,9.1,Decreasing
+Security Systems,135,94.5,202.5,21600,7.5,Increasing

@@ -1,0 +1,27 @@
+{
+  "report_date": "2025-11-10 12:17:24",
+  "market_overview": {
+    "current_market_size_billions": 520.6,
+    "projected_2028_billions": 621.3,
+    "cagr_percent": 6.3,
+    "total_companies": 12880,
+    "total_employees_estimate": 456000
+  },
+  "key_findings": [
+    "Market growing at steady 6.3% CAGR through 2028",
+    "Residential segment dominates with 62% market share",
+    "Top 4 competitors control 49.8% of market (moderate concentration)",
+    "North America is largest market at $165.5B",
+    "Asia Pacific shows highest growth rate at 8.5%",
+    "AI and automation are fastest-growing trends (15.6% growth potential)",
+    "Green/sustainable practices have highest adoption at 72.1%",
+    "Digital transformation driving efficiency gains across all segments"
+  ],
+  "recommendations": [
+    "Invest in AI and predictive maintenance technologies",
+    "Expand in high-growth Asia Pacific markets",
+    "Focus on digital platform development",
+    "Consider subscription-based service models",
+    "Prioritize sustainability initiatives for competitive advantage"
+  ]
+}

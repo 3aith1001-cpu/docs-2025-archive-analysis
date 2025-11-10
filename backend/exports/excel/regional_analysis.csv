@@ -1,0 +1,6 @@
+region,market_size_billions,growth_rate,number_of_companies,avg_service_cost_index,regulatory_complexity,digital_maturity,labor_cost_index
+North America,165.5,5.8,4250,95,Medium,7.3,90
+Europe,142.3,5.2,3680,107,High,7.1,105
+Asia Pacific,128.7,8.5,2940,119,Medium,8.4,120
+Middle East & Africa,45.2,7.3,1120,131,High,7.9,135
+Latin America,38.9,6.9,890,143,Low,7.8,150

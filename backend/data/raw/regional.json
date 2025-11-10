@@ -1,0 +1,52 @@
+[
+  {
+    "region": "North America",
+    "market_size_billions": 165.5,
+    "growth_rate": 5.8,
+    "number_of_companies": 4250,
+    "avg_service_cost_index": 95,
+    "regulatory_complexity": "Medium",
+    "digital_maturity": 7.3,
+    "labor_cost_index": 90
+  },
+  {
+    "region": "Europe",
+    "market_size_billions": 142.3,
+    "growth_rate": 5.2,
+    "number_of_companies": 3680,
+    "avg_service_cost_index": 107,
+    "regulatory_complexity": "High",
+    "digital_maturity": 7.1,
+    "labor_cost_index": 105
+  },
+  {
+    "region": "Asia Pacific",
+    "market_size_billions": 128.7,
+    "growth_rate": 8.5,
+    "number_of_companies": 2940,
+    "avg_service_cost_index": 119,
+    "regulatory_complexity": "Medium",
+    "digital_maturity": 8.4,
+    "labor_cost_index": 120
+  },
+  {
+    "region": "Middle East & Africa",
+    "market_size_billions": 45.2,
+    "growth_rate": 7.3,
+    "number_of_companies": 1120,
+    "avg_service_cost_index": 131,
+    "regulatory_complexity": "High",
+    "digital_maturity": 7.9,
+    "labor_cost_index": 135
+  },
+  {
+    "region": "Latin America",
+    "market_size_billions": 38.9,
+    "growth_rate": 6.9,
+    "number_of_companies": 890,
+    "avg_service_cost_index": 143,
+    "regulatory_complexity": "Low",
+    "digital_maturity": 7.8,
+    "labor_cost_index": 150
+  }
+]

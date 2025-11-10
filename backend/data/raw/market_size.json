@@ -1,0 +1,101 @@
+[
+  {
+    "year": 2018,
+    "market_size_billions": 350.0,
+    "growth_rate_percent": 6.3,
+    "segment_residential": 217.0,
+    "segment_commercial": 98.0,
+    "segment_industrial": 35.0,
+    "projected": "No"
+  },
+  {
+    "year": 2019,
+    "market_size_billions": 372.05,
+    "growth_rate_percent": 6.3,
+    "segment_residential": 230.67,
+    "segment_commercial": 104.17,
+    "segment_industrial": 37.2,
+    "projected": "No"
+  },
+  {
+    "year": 2020,
+    "market_size_billions": 395.49,
+    "growth_rate_percent": 6.3,
+    "segment_residential": 245.2,
+    "segment_commercial": 110.74,
+    "segment_industrial": 39.55,
+    "projected": "No"
+  },
+  {
+    "year": 2021,
+    "market_size_billions": 420.4,
+    "growth_rate_percent": 6.3,
+    "segment_residential": 260.65,
+    "segment_commercial": 117.71,
+    "segment_industrial": 42.04,
+    "projected": "No"
+  },
+  {
+    "year": 2022,
+    "market_size_billions": 446.89,
+    "growth_rate_percent": 6.3,
+    "segment_residential": 277.07,
+    "segment_commercial": 125.13,
+    "segment_industrial": 44.69,
+    "projected": "No"
+  },
+  {
+    "year": 2023,
+    "market_size_billions": 475.04,
+    "growth_rate_percent": 6.3,
+    "segment_residential": 294.53,
+    "segment_commercial": 133.01,
+    "segment_industrial": 47.5,
+    "projected": "No"
+  },
+  {
+    "year": 2024,
+    "market_size_billions": 504.97,
+    "growth_rate_percent": 6.3,
+    "segment_residential": 313.08,
+    "segment_commercial": 141.39,
+    "segment_industrial": 50.5,
+    "projected": "No"
+  },
+  {
+    "year": 2025,
+    "market_size_billions": 536.79,
+    "growth_rate_percent": 6.3,
+    "segment_residential": 332.81,
+    "segment_commercial": 150.3,
+    "segment_industrial": 53.68,
+    "projected": "No"
+  },
+  {
+    "year": 2026,
+    "market_size_billions": 570.6,
+    "growth_rate_percent": 6.3,
+    "segment_residential": 353.77,
+    "segment_commercial": 159.77,
+    "segment_industrial": 57.06,
+    "projected": "Yes"
+  },
+  {
+    "year": 2027,
+    "market_size_billions": 606.55,
+    "growth_rate_percent": 6.3,
+    "segment_residential": 376.06,
+    "segment_commercial": 169.83,
+    "segment_industrial": 60.66,
+    "projected": "Yes"
+  },
+  {
+    "year": 2028,
+    "market_size_billions": 644.76,
+    "growth_rate_percent": 6.3,
+    "segment_residential": 399.75,
+    "segment_commercial": 180.53,
+    "segment_industrial": 64.48,
+    "projected": "Yes"
+  }
+]

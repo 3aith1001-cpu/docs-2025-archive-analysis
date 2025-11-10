@@ -1,0 +1,11 @@
+name,market_share,revenue_millions,growth_rate_yoy,employee_count,customer_satisfaction,digital_adoption_score
+ServiceMaster,15.2,3200,8.5,38400,8.3,8.1
+ABM Industries,12.8,2850,7.2,34200,8.0,7.7
+CBRE Group,11.5,2580,9.1,30960,8.4,8.3
+ISS Facility Services,10.3,2320,6.8,27840,8.0,7.6
+Sodexo,8.7,1950,7.9,23400,8.2,7.9
+Jones Lang LaSalle,7.9,1780,8.3,21360,8.3,8.0
+Cushman & Wakefield,6.5,1460,6.5,17520,7.9,7.5
+Aramark,5.8,1305,7.1,15660,8.0,7.7
+Compass Group,5.2,1170,8.9,14040,8.4,8.2
+Others,16.1,3620,6.2,43440,7.8,7.4

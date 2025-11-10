@@ -1,0 +1,92 @@
+[
+  {
+    "name": "ServiceMaster",
+    "market_share": 15.2,
+    "revenue_millions": 3200,
+    "growth_rate_yoy": 8.5,
+    "employee_count": 38400,
+    "customer_satisfaction": 8.3,
+    "digital_adoption_score": 8.1
+  },
+  {
+    "name": "ABM Industries",
+    "market_share": 12.8,
+    "revenue_millions": 2850,
+    "growth_rate_yoy": 7.2,
+    "employee_count": 34200,
+    "customer_satisfaction": 8.0,
+    "digital_adoption_score": 7.7
+  },
+  {
+    "name": "CBRE Group",
+    "market_share": 11.5,
+    "revenue_millions": 2580,
+    "growth_rate_yoy": 9.1,
+    "employee_count": 30960,
+    "customer_satisfaction": 8.4,
+    "digital_adoption_score": 8.3
+  },
+  {
+    "name": "ISS Facility Services",
+    "market_share": 10.3,
+    "revenue_millions": 2320,
+    "growth_rate_yoy": 6.8,
+    "employee_count": 27840,
+    "customer_satisfaction": 8.0,
+    "digital_adoption_score": 7.6
+  },
+  {
+    "name": "Sodexo",
+    "market_share": 8.7,
+    "revenue_millions": 1950,
+    "growth_rate_yoy": 7.9,
+    "employee_count": 23400,
+    "customer_satisfaction": 8.2,
+    "digital_adoption_score": 7.9
+  },
+  {
+    "name": "Jones Lang LaSalle",
+    "market_share": 7.9,
+    "revenue_millions": 1780,
+    "growth_rate_yoy": 8.3,
+    "employee_count": 21360,
+    "customer_satisfaction": 8.3,
+    "digital_adoption_score": 8.0
+  },
+  {
+    "name": "Cushman & Wakefield",
+    "market_share": 6.5,
+    "revenue_millions": 1460,
+    "growth_rate_yoy": 6.5,
+    "employee_count": 17520,
+    "customer_satisfaction": 7.9,
+    "digital_adoption_score": 7.5
+  },
+  {
+    "name": "Aramark",
+    "market_share": 5.8,
+    "revenue_millions": 1305,
+    "growth_rate_yoy": 7.1,
+    "employee_count": 15660,
+    "customer_satisfaction": 8.0,
+    "digital_adoption_score": 7.7
+  },
+  {
+    "name": "Compass Group",
+    "market_share": 5.2,
+    "revenue_millions": 1170,
+    "growth_rate_yoy": 8.9,
+    "employee_count": 14040,
+    "customer_satisfaction": 8.4,
+    "digital_adoption_score": 8.2
+  },
+  {
+    "name": "Others",
+    "market_share": 16.1,
+    "revenue_millions": 3620,
+    "growth_rate_yoy": 6.2,
+    "employee_count": 43440,
+    "customer_satisfaction": 7.8,
+    "digital_adoption_score": 7.4
+  }
+]

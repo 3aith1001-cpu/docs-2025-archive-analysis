@@ -1,0 +1,56 @@
+[
+  {
+    "trend": "IoT & Smart Building Integration",
+    "adoption_rate": 68.5,
+    "growth_potential": 9.2,
+    "investment_millions": 1250,
+    "maturity": "Growing",
+    "impact_score": 8.0,
+    "roi_potential": 7.36
+  },
+  {
+    "trend": "Predictive Maintenance AI",
+    "adoption_rate": 45.3,
+    "growth_potential": 12.8,
+    "investment_millions": 890,
+    "maturity": "Emerging",
+    "impact_score": 8.7,
+    "roi_potential": 11.14
+  },
+  {
+    "trend": "Green/Sustainable Practices",
+    "adoption_rate": 72.1,
+    "growth_potential": 8.5,
+    "investment_millions": 2100,
+    "maturity": "Mature",
+    "impact_score": 7.9,
+    "roi_potential": 6.72
+  },
+  {
+    "trend": "Mobile-First Service Platforms",
+    "adoption_rate": 81.2,
+    "growth_potential": 6.3,
+    "investment_millions": 650,
+    "maturity": "Mature",
+    "impact_score": 7.2,
+    "roi_potential": 4.54
+  },
+  {
+    "trend": "Robotics & Automation",
+    "adoption_rate": 28.7,
+    "growth_potential": 15.6,
+    "investment_millions": 1450,
+    "maturity": "Emerging",
+    "impact_score": 9.2,
+    "roi_potential": 14.35
+  },
+  {
+    "trend": "Subscription-Based Models",
+    "adoption_rate": 63.4,
+    "growth_potential": 10.2,
+    "investment_millions": 780,
+    "maturity": "Growing",
+    "impact_score": 8.3,
+    "roi_potential": 8.47
+  }
+]

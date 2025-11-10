@@ -1,0 +1,92 @@
+[
+  {
+    "service": "HVAC Maintenance",
+    "avg_hourly_rate": 125,
+    "min_rate": 87.5,
+    "max_rate": 187.5,
+    "avg_contract_monthly": 20000,
+    "market_demand_score": 7.5,
+    "price_trend": "Increasing"
+  },
+  {
+    "service": "Plumbing Services",
+    "avg_hourly_rate": 95,
+    "min_rate": 66.5,
+    "max_rate": 142.5,
+    "avg_contract_monthly": 15200,
+    "market_demand_score": 8.3,
+    "price_trend": "Stable"
+  },
+  {
+    "service": "Electrical Maintenance",
+    "avg_hourly_rate": 110,
+    "min_rate": 77.0,
+    "max_rate": 165.0,
+    "avg_contract_monthly": 17600,
+    "market_demand_score": 9.1,
+    "price_trend": "Decreasing"
+  },
+  {
+    "service": "Landscaping",
+    "avg_hourly_rate": 65,
+    "min_rate": 45.5,
+    "max_rate": 97.5,
+    "avg_contract_monthly": 10400,
+    "market_demand_score": 7.5,
+    "price_trend": "Increasing"
+  },
+  {
+    "service": "Janitorial Services",
+    "avg_hourly_rate": 45,
+    "min_rate": 31.5,
+    "max_rate": 67.5,
+    "avg_contract_monthly": 7200,
+    "market_demand_score": 8.3,
+    "price_trend": "Stable"
+  },
+  {
+    "service": "Painting",
+    "avg_hourly_rate": 75,
+    "min_rate": 52.5,
+    "max_rate": 112.5,
+    "avg_contract_monthly": 12000,
+    "market_demand_score": 9.1,
+    "price_trend": "Decreasing"
+  },
+  {
+    "service": "Roofing",
+    "avg_hourly_rate": 150,
+    "min_rate": 105.0,
+    "max_rate": 225.0,
+    "avg_contract_monthly": 24000,
+    "market_demand_score": 7.5,
+    "price_trend": "Increasing"
+  },
+  {
+    "service": "General Repairs",
+    "avg_hourly_rate": 85,
+    "min_rate": 59.5,
+    "max_rate": 127.5,
+    "avg_contract_monthly": 13600,
+    "market_demand_score": 8.3,
+    "price_trend": "Stable"
+  },
+  {
+    "service": "Pest Control",
+    "avg_hourly_rate": 120,
+    "min_rate": 84.0,
+    "max_rate": 180.0,
+    "avg_contract_monthly": 19200,
+    "market_demand_score": 9.1,
+    "price_trend": "Decreasing"
+  },
+  {
+    "service": "Security Systems",
+    "avg_hourly_rate": 135,
+    "min_rate": 94.5,
+    "max_rate": 202.5,
+    "avg_contract_monthly": 21600,
+    "market_demand_score": 7.5,
+    "price_trend": "Increasing"
+  }
+]
